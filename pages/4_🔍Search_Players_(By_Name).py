@@ -16,7 +16,7 @@ st.markdown(
     "<h3 style='text-align: center; color: black;'>⚫️ Personal GAT Point ⚪️</h3>",
     unsafe_allow_html=True,
 )
-input = st.text_input("Enter player's name/surname (at least 3 characters): ")
+input = st.text_input("Enter player's name/surname (at least 3 characters in Thai): ")
 input2 = input.strip()
 sizeinput = len(input2)
 

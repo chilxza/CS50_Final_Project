@@ -1,7 +1,5 @@
 # Thailand Go GAT Point Data Analysis and Visualization Website
 
-#### Video Demo: https://youtu.be/3W7M3x6vw1Q
-
 #### Application Demo: https://gat-point.streamlit.app
 
 #### Description:
