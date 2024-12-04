@@ -14,7 +14,7 @@ logo()
 
 with st.sidebar:
     st.markdown(
-        f'<p style="color:red;">{"GAT Point data as of 16 OCT 2024"}<p>',
+        f'<p style="color:red;">{"GAT Point data as of 1 DEC 2024"}<p>',
         unsafe_allow_html=True,
     )
 
